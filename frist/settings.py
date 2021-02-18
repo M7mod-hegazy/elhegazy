@@ -146,5 +146,3 @@ LOGOUT_REDIRECT_URL = 'index'
 LOGIN_REDIRECT_URL = 'index'
 LOGIN_URL = 'signin'
 
-import django_heroku
-django_heroku.settings(locals())
