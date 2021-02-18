@@ -26,7 +26,7 @@ SECRET_KEY = '!!z1ua7j-=(6bu4ucazrx^0ixa_-4y!vuiy&bu(2*$rr5i6@$+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["myfristtrailapp.herokuapp.com"]
+ALLOWED_HOSTS = []
 
 
 # Application definition
