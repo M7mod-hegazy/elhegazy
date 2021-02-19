@@ -1,3 +1,3 @@
-[submodule "elhegazy2"]
-	path = elhegazy2
+[submodule "elhegazy"]
+	path = elhegazy
 	url = https://github.com/M7mod-hegazy/elhegazy.git
