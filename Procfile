@@ -1,1 +1,1 @@
-web: gunicorn frist.wsgi --log-file -
+web: gunicorn frist.wsgi 
